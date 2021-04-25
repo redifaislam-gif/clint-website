@@ -20,7 +20,17 @@ div.about-content {
 div.service-title p {
 padding: 0 0px 36px 0;}
 
+	div.title-content h1{
+		font-size:45px;
+	}
 	
+	
+	div.title-content p{
+		padding:0px;
+	}
+	div .choose-content.faderight.animate.two {
+    margin-left: 40px;
+}
 }
 
 @media only screen and (max-width:1047px){
@@ -62,13 +72,31 @@ div.mobile-menu span{
 	
 }
 	
+	div .about-content p {
+    padding: 0 0px 36px 0;
 	
+	}
+	
+	div .choose-content.faderight.animate.two {
+    margin-left: 20px;
+}
 }
 @media only screen and (max-width:767px){
 div .choose-content{
 	margin-top:50px;
 }
 
+div.title-content h1 {
+    font-size: 40px;
+}
+div .lg\:w-2\/3 {
+    width: 130.666667%;
+}
+div .choose-content.faderight.animate.two {
+    margin-left: 0px;
+}
+
+}
 
 
 @media only screen and (max-width:639px){
@@ -81,7 +109,10 @@ div.footer-menu ul li a {
    
    
     line-height: 53px;
-	
+}
+
+div .about-content p {
+padding: 0 0px 36px 0;}
 }
 
 @media only screen and (max-width:530px){
@@ -104,7 +135,47 @@ div.contact-content {
 	div .copy p {
     text-align: center;
     padding: 0 0px 20px 0px;
-}}
+}
+
+
+div.title-content h1 {
+    font-size: 30px;
+	line-height: 53px;
+}
+div .title-content .top-btn a {
+
+    font-size: 18px;
+    padding: 010px 16px 10px 16px;
+}
+div .abt-btn a {
+   
+    font-size: 18px;
+   
+    padding: 010px 016px 10px 016px;
+  
+}
+div .about-content h2 {
+    font-size: 40px;
+}
+
+div.service-title h2 {
+font-size:40px;
+
+}
+div.service-title {
+    padding: 0px 0px 50px 0px;
+}
+
+
+div .choose-content h2 {
+   
+  
+    
+    font-size: 40px;
+
+
+
+}
 	
 	@media only screen and (max-width:287px){
 		

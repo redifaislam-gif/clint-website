@@ -28,7 +28,7 @@ body{
 	
 	
 }
-.main-menu a{
+.main-menu .a{
 	
 	text-decoration:none;
 	color:#000000;
@@ -59,7 +59,15 @@ body{
 	transform:translateX(-50%) scaleX(1);
 	
 }
-.main-menu a:hover{
+.title-content h1{
+		font-size:58px; 
+		font-family:inter; 
+		line-height:73px;
+	}
+.title-content p{
+		font-size:18px; font-family:inter; line-height:32px; padding:20px 300px 30px 300px;
+	}
+.main-menu .a:hover{
 	border-bottom:2px solid black;
 	color:black;
 	
@@ -193,7 +201,7 @@ padding:0 20px 0px 20px;
 }
 .service-title{
 	
-	padding:0px 300px 50px 300px;
+	padding:0px 300px 80px 300px;
 }
 .service-title h2{
 	color:black;

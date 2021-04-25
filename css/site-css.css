@@ -65,12 +65,12 @@ html{
 	
 	
 	.mobile-menu span{
-	  
+	
 	    color: #000;
     font-size: 29px;
     display: none;
-    margin-top: 5px;
-right:10px !importent;
+margin-right:40px;
+}
 }
 
 .mobile-menu span:hover{
