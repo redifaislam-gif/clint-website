@@ -80,6 +80,9 @@ padding:0 20px 0px 20px;
 	
 	
 }
+.lg\:w-2\/3 {
+    width: 89.666667%;
+}
 .title-content .top-btn a{
 	text-decoration:none;
 	font-family: "Inter", Sans-serif;
@@ -120,7 +123,7 @@ padding:0 20px 0px 20px;
     font-weight: 700;
 }
 .about-content p{
-	padding:0 150px 36px 0;
+	padding:0 200px 36px 0;
 	color:#707070;
 	line-height:30px;
     font-size: 16;
@@ -242,14 +245,7 @@ transition:all .4s linear;
 
 
 z-index:0;}
-.ser-content:hover{
-	width:90%;
-margin:-10px 0px 0px 10px;
-cursor:pointer;
-	
-	transform:scale(1.1);
-	
-}
+
 .ser-cont{
 	padding:20px 22px;
 }
@@ -286,7 +282,7 @@ z-index:0;
 .contact-content{
 	
 	position:relative;
-	margin:180px 100px 0px 100px;
+	margin:80px 100px 0px 100px;
 }
 .contact-content h2{
 		color:#000;
