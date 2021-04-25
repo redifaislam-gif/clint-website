@@ -1,0 +1,135 @@
+
+
+
+body{
+max-height:100px;	
+margin-top:90px;}
+
+.navbar{
+	
+	box-shadow:2px 2px 5px #17c7e7;
+	background:#fff;
+	opacity:0.9;
+}
+
+.nav-item{
+	font-size:1.4rem;
+padding-right:20px;
+
+
+}
+ .nav-link{
+color: #252525;
+}
+
+   .nav-link:hover{
+    color:#17c7e7;
+
+}
+
+
+.nav-item:last-child{
+padding-right:0;}
+
+#showcase{
+	position:relative;
+background: url('../img/p1.jfif');
+background-size:cover;
+min-height:695px;
+padding-bottom:200px;
+}
+
+
+.primary-overlay{
+position:absolute;
+background: rgba(50,146,156,0.7);
+
+min-height:695px;
+top:0;
+left:0;
+width:100%;
+height:100%;
+
+}
+
+#subscribe{
+background:#252525;}
+#about{
+margin-top:20%;}
+#authors {
+margin-top:30px;}
+	
+#authors  img{
+margin-top:-50px;}
+
+
+	#authors	
+      .card:hover{
+		 background:#3ca3bc;
+		 color:white;
+		 
+		
+		 
+		}
+		#authors 
+	.fa:hover{
+	color:white;
+	}	
+  
+		
+	#authors 
+	.fa{
+	font-size:25px;
+	color:#3ca3bc;
+	}
+	.scrollup  i{
+		padding-bottom:10px;
+		text-decoration:none;
+		outline:none;
+		
+	}
+	
+	.scrollup{
+		display:-webkit-flex;
+		display:-moz-flex;
+		display:-ms-flex;
+		display:-o-flex;
+		display:flex;
+		justify-content:center;
+		align-items:center;
+		font-size:35px;
+		color:white;
+		text-decoration:none;
+		transition:.5s;
+		background:crimson;
+		position:fixed;
+		bottom:16px;
+		right:32px;
+		width:60px;
+		border-radius:5px;
+		opacity:0;
+		
+	}
+	html{
+		
+		scroll-behavior:smooth;
+	}
+	.scrollup.active{
+		
+		bottom:32px;
+		pointer-events:auto;
+		opacity:1;
+		transform:translateY(-55px);
+	}
+	
+@media(max-width: 576px){
+	#showcase h1{
+	font-size: 4rem;
+		}
+		
+		
+	}
+
+	
+
+

@@ -1,0 +1,120 @@
+@media only screen and (max-width:1880px){
+
+div .title-content{
+	
+	padding-bottom:170px;
+}
+}
+@media only screen and (max-width:1880px){
+div.about-content {
+    margin-top:0px;
+}
+}
+@media only screen and (max-width:1159px){
+	.lg\:w-2\/3 {
+    width: 96.666667%;
+}
+	div.service-title {
+    padding: 0px 100px 50px 100px;
+}
+div.service-title p {
+padding: 0 0px 36px 0;}
+
+	
+}
+
+@media only screen and (max-width:1047px){
+div.social 	{
+	
+	display:none;
+}
+	
+	
+}
+@media only screen and (max-width:1023px){
+	
+	div.contact-row{
+		
+		text-align:center;
+	}
+	footer.footer-section {
+   
+   margin-top:100px;
+    
+}
+div.input-form {
+max-width: 80%;
+
+margin: auto;
+
+margin-top:80px;
+
+margin-bottom:80px;}
+}
+@media only screen and (max-width:991px){
+ul.menu 	{
+	
+	display:none;
+}
+
+div.mobile-menu span{
+	display:block;
+	
+}
+	
+	
+}
+@media only screen and (max-width:767px){
+div .choose-content{
+	margin-top:50px;
+}
+
+
+
+@media only screen and (max-width:639px){
+	footer.footer-section {
+   
+  text-align:center;
+    
+}
+div.footer-menu ul li a {
+   
+   
+    line-height: 53px;
+	
+}
+
+@media only screen and (max-width:530px){
+	
+	div .copy p {
+    text-align: center;
+    padding: 0 100px 20px 100px;
+}
+
+div.footer-social.flex {
+    padding: 0 130px;
+}
+div.contact-content {
+    position: relative;
+    margin: 180px 0px 0px 0px;
+}
+}
+
+@media only screen and (max-width:360px){
+	div .copy p {
+    text-align: center;
+    padding: 0 0px 20px 0px;
+}}
+	
+	@media only screen and (max-width:287px){
+		
+		div.footer-menu {
+    margin: 0 10px;
+}
+		div.footer-logo img {
+    line-height: 40px;
+    margin: -2px 10px 20px 40px;
+}
+	}
+
+	
