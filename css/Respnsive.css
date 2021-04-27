@@ -7,7 +7,7 @@ div .title-content{
 }
 @media only screen and (max-width:1880px){
 div.about-content {
-    margin-top:0px;
+
 }
 }
 @media only screen and (max-width:1159px){
@@ -45,7 +45,7 @@ div.social 	{
 	
 	div.contact-row{
 		
-		text-align:center;
+		text-align:left;
 	}
 	footer.footer-section {
    
@@ -53,13 +53,26 @@ div.social 	{
     
 }
 div.input-form {
-max-width: 80%;
+max-width: 100%;
 
 margin: auto;
 
-margin-top:80px;
+}
 
-margin-bottom:80px;}
+div .contact-content{
+
+	padding:133px 35px 176px 34px;
+	
+width:490px;
+	border:1px solid #F9A34F;
+}
+div .footer-PAGES {
+    margin: 0 40px;
+}
+div .footer-SERVICES {
+    margin-left: 60px;
+}
+
 }
 @media only screen and (max-width:991px){
 ul.menu 	{
@@ -71,7 +84,9 @@ div.mobile-menu span{
 	display:block;
 	
 }
-	
+	div .h-site-btn{
+		display:none;
+	}
 	div .about-content p {
     padding: 0 0px 36px 0;
 	
@@ -79,6 +94,33 @@ div.mobile-menu span{
 	
 	div .choose-content.faderight.animate.two {
     margin-left: 20px;
+}
+div .title-content h1 {
+   
+    padding: 20px 0px 10px 0px;
+}
+}
+
+@media only screen and (max-width:899px){
+div .Extensive1{
+height:70px;
+
+}
+
+div .Extensive2{
+height:70px;
+
+}
+
+div .Extensive1 span {
+  
+    line-height: 30px;
+    font-size: 18px;
+}
+	div .Extensive2 span {
+  
+    line-height: 30px;
+    font-size: 18px;
 }
 }
 @media only screen and (max-width:767px){
@@ -89,13 +131,21 @@ div .choose-content{
 div.title-content h1 {
     font-size: 40px;
 }
-div .lg\:w-2\/3 {
-    width: 130.666667%;
-}
+
+div .abt-btn a {
+   
+margin-bottom: 70px;}
 div .choose-content.faderight.animate.two {
     margin-left: 0px;
 }
-
+div .footer-PAGES {
+    margin: 0 0 50px 0px;
+	
+}
+div .footer-SERVICES {
+    margin-left: 0px;
+	  margin: 0 0 50px 0px;
+}
 }
 
 
@@ -114,6 +164,21 @@ div.footer-menu ul li a {
 div .about-content p {
 padding: 0 0px 36px 0;}
 }
+@media only screen and (max-width:575px){
+	div .contacr-icon{
+	
+	display:inline;
+}
+	div .contacr-icon img{
+	
+	margin:auto;
+}
+div .footer-box.footer-content img {
+    margin: auto;
+}	
+}
+
+
 
 @media only screen and (max-width:530px){
 	
@@ -130,13 +195,37 @@ div.contact-content {
     margin: 180px 0px 0px 0px;
 }
 }
-
+@media only screen and (max-width:447px){
+	div .Extensive1 span {
+  
+    line-height: 30px;
+    font-size: 18px;
+}
+	div .Extensive2 span {
+  
+    line-height: 30px;
+    font-size: 18px;
+}
+}
+@media only screen and (max-width:373px){
+	div .title-content p {
+    padding: 5px;
+}
+div .title-content h1 {
+    font-size: 30px;
+}
+	
+}
 @media only screen and (max-width:360px){
 	div .copy p {
     text-align: center;
     padding: 0 0px 20px 0px;
 }
-
+div .Extensive1 span{
+	
+	
+   
+	padding:10px 100px 10px 24px;
 
 div.title-content h1 {
     font-size: 30px;
@@ -147,6 +236,7 @@ div .title-content .top-btn a {
     font-size: 18px;
     padding: 010px 16px 10px 16px;
 }
+
 div .abt-btn a {
    
     font-size: 18px;
