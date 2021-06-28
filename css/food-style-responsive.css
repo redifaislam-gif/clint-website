@@ -1,0 +1,826 @@
+@media only screen and (max-width:1529px){
+	.rating-section {
+   
+   
+    background-size: cover;
+    max-width: 100%;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+   
+    min-height: 100vh;
+   display:block;
+}
+	
+	
+}
+
+@media only screen and (max-width:1450px){
+	div.container{
+	max-width:1380px;
+	margin:0 auto;
+	overflow:hidden;
+	padding:0 40px;
+	
+	}
+	div.container2{
+	max-width:1180px;
+	margin:0 auto;
+	overflow:hidden;
+	padding:0 40px;
+	
+	}
+	header{
+	     position:relative;
+	    background-image:url('../img/food-img/bac1.png');
+		background-size:cover;
+		max-width:100%;
+		background-repeat:no-repeat;
+		background-position:top;
+	     min-height:1200px;
+		
+	
+}
+
+header .site-image {
+    margin-left: -62px;
+    margin-top: 192px;
+}
+header nav ul {
+  
+    margin-left: 162px;
+}
+
+
+
+.rating-section{
+   width:100%;
+   display:block;
+min-height:100vh;
+   
+    
+}
+.icon-box {
+   
+    margin-bottom: 50px;
+}
+
+
+}
+
+
+@media only screen and (max-width:1308px){
+	div.container{
+	max-width:1280px;
+	margin:0 auto;
+	overflow:hidden;
+	padding:0 40px;
+	
+	}
+	header nav ul {
+  
+    margin-left: -4px;
+}
+
+
+div.testi-content1 {
+    max-width: 553px;
+    min-height: 394px;
+  
+}
+
+div.about-content p {
+    
+    margin-right: -45px;
+}
+}
+
+
+@media only screen and (max-width:1280px){
+	div.container-icon{
+max-width:840px;
+	margin:0 auto;
+	overflow:hidden;
+	padding:0 40px;
+	
+}
+header .site-image {
+    margin-left: -92px;
+    margin-top: 200px;
+}
+div.container-itms{
+	
+	max-width:1340px;
+	margin:0 auto;
+	overflow:hidden;
+	padding:0 40px;
+}
+
+div.header-title-content {
+    margin-top: 196px;
+    margin-right: 47px;
+}
+	div.icon-box {
+    max-width: 418px;
+    min-height: 406px;
+    padding: 70px 110px;
+}
+	
+	div.food-items span {
+  
+    margin-left: -1px;
+    font-size: 19px;
+    
+}
+div.food-items1 {
+    width: 261px;
+    height: 100px;
+    padding: 14px 10px;
+  
+}
+div.about-section {
+    margin-top: 150px;
+    margin-bottom: 221px;
+}
+
+div.icon-section {
+    margin-top: 70px;
+    margin-bottom: -145px;
+}
+div.icon-box h2 {
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 38px;
+    padding-top: 20px;
+    margin-left: -220px;
+    margin-right: -224px;
+}
+
+div.icon-box p {
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 25px;
+    margin-left: -52px;
+    margin-right: -62px;
+}
+
+div.container-rating{
+	max-width:840px;
+	margin:0 auto;
+	overflow:hidden;
+	padding:0 40px;
+	
+}
+div.testi-content1 p {
+  
+    line-height: 38px;
+  padding-right: 0px;
+}
+}
+
+
+@media only screen and (max-width:1111px){
+	
+	
+	header nav ul li a {
+    
+    font-size: 20px;
+    line-height: 26.4px;
+    padding-left: 55px;
+    
+}
+div.testi-content1 p {
+    line-height: 31px;
+    padding-right: 0px;
+}
+div.food-items1 {
+    width: 232px;
+    height: 99px;
+    padding: 14px 0px;
+}
+
+div.food-items span {
+    margin-left: -1px;
+    font-size: 16px;
+}
+}
+
+@media only screen and (max-width:991px){
+	
+	header nav ul li a {
+   
+    font-size: 18px;
+    line-height: 26.4px;
+    padding-left: 32px;
+    
+}
+
+nav ul {
+    display: flex;
+    text-align: right;
+    margin-left: 315px;
+    margin-top: 12px;
+}
+	
+	div.header-title-content h2 {
+    color: #302E29;
+    font-size: 50px;
+    font-weight: bold;
+    line-height: 87px;
+    font-family: Raleway;
+}
+
+div.btn a {
+   
+    font-size: 18px;
+    padding: 17px 27px 17px 27px;
+   
+}
+header .site-image {
+    margin-left: -103px;
+    margin-top: 100px;
+   
+}
+.food-items-section {
+	
+    margin-top: 100px;
+}
+div.container-itms {
+    max-width: 607px;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 0 40px;
+}
+
+div.food-items1 {
+    width: 260px;
+    height: 99px;
+    padding: 14px 10px;
+    margin-bottom: 53px;
+}
+
+.about-section {
+    position: relative;
+    background:;
+    background-size: container;
+    max-width: 100%;
+    background-repeat: no-repeat;
+    background-position: right;
+    min-height: 880px;
+    margin-top: 180px;
+}
+div.about-content h2 {
+   
+    font-size: 50px;
+   
+    margin-right: 336px;
+    margin-bottom: 40px;
+}
+div.about-content2 p {
+   
+    font-size: 20px;
+    line-height: 48px;
+    margin-right: -71px;
+}
+div.about-content2 h2 {
+    
+    font-size: 50px;
+    line-height: 82px;
+    margin-right: 54px;
+}
+div.rating-title h2 {
+  
+    font-size: 48px;
+ 
+}
+div.testi-title h2 {
+   
+    font-size: 48px;
+   
+}
+section.testimonial-section {
+  
+    background-size:cover;
+    max-width: 100%;
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    min-height: 100vh;
+       margin-top: 45px;
+}
+.rating-section {
+   
+   
+    background-size: cover;
+    max-width: 100%;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+       margin-top: 0px;
+    min-height: 100vh;
+   display:block;
+}
+
+.footer-section {
+   
+
+   
+    padding-bottom: 80px;
+}
+.testimonial-section .show-more-btn {
+    text-align: center;
+    margin-bottom: 110px;
+}
+div.about-content {
+    margin-top: -8px;
+   
+}
+.icon-section {
+    margin-top: -8px;
+    margin-bottom: 66px;
+}
+section.about-section2 {  
+    margin-top:100px;
+}
+}
+
+@media only screen and (max-width:855px){
+	.top-btn{
+	display:none;	
+		
+	}
+	
+}
+@media only screen and (max-width:815px){
+	div.container-icon {
+    max-width: 485px;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 0 40px;
+}
+div.container-rating {
+    max-width: 445px;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 0 40px;
+}
+	
+}
+
+@media only screen and (max-width:768px){
+	
+	.menu {
+   
+    display:none;
+}
+	div.mobile-menu span{
+	  
+	display:block;
+}
+
+header .site-image {
+    margin-left: 16px;
+    margin-top: 100px;
+}
+div.header-title-content {
+    margin-top: 196px;
+    margin-right: -111px;
+}
+div.btn {
+    margin-left: -11px;
+    margin-top: 76px;
+}
+div.container-icon {
+    max-width: 485px;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 0 40px;
+}
+div.container-rating {
+    max-width: 445px;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 0 40px;
+}
+
+div.footer-bottom p {
+    
+    font-size: 20px;
+    
+}	
+}
+@media only screen and (max-width:767px){
+	
+	header .site-image {
+   display:none;
+}
+	div.header-title-content {
+    margin-top: 196px;
+    margin-right: -235px;
+}
+div.food-items1 {
+    width: 320px;
+    height: 99px;
+    padding: 14px 30px;
+    margin-bottom: 53px;
+}
+div.container-itms {
+    max-width: 415px;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 0 40px;
+}
+div.about-content {
+    margin-top: -8px;
+    margin-right: -100px;
+}
+
+div.container-icon {
+    max-width: 546px;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 0 40px;
+}
+
+div.testi-content1 {
+    max-width: 447px;
+    min-height: 302px;
+}
+div.container-test{
+	 max-width: 559px;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 0 40px;
+}
+}
+
+@media only screen and (max-width:749px){
+	
+	div.header-title-content {
+    margin-top: 196px;
+    margin-right: -13px;
+    text-align: center;
+}
+div.about-content p {
+   
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 45px;
+    
+}
+div.header-title-content p {
+   
+    margin-right: 2px;
+}
+}
+@media only screen and (max-width:621px){
+	
+	div.about-content h2 {
+    font-size: 50px;
+    margin-right: 372px;
+    margin-bottom: 40px;
+}
+div.about-content {
+    margin-top: -8px;
+    margin-right: -326px;
+}
+div.about-content2 p {
+    font-size: 18px;
+line-height: 48px;}
+}
+
+@media only screen and (max-width:575px){
+	
+	div.about-content h2 {
+    font-size: 42px;
+    margin-right: 372px;
+    margin-bottom: 40px;
+}
+div.about-content p {
+   
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 45px;
+    
+}
+div.about-content2 p {
+    font-size: 16px;
+line-height: 48px;}
+
+div.about-content2 h2 {
+    font-size: 42px;
+    line-height: 82px;
+    margin-right: 54px;
+}
+div.testi-title h2 {
+    font-size: 35px;
+	    padding-bottom: 62px;
+}
+div.rating-title h2 {
+    font-size: 35px;
+	 padding-bottom: 61px;
+}
+section.footer-bottom-section {
+    background-color: #FF9100;
+    text-align: center;
+}
+div.footer-bottom p:nth-child(2) {
+    content: "";
+    text-align: center;
+}
+div.footer-bottom p {
+   
+   
+    line-height: 0px;
+   
+    margin-top: 33px;
+   
+}
+div.footer-bottom p {
+    font-size: 18px;
+    line-height: 0px;
+    margin-top: 33px;
+}
+div.container-rating {
+    max-width: 459px;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 0 40px;
+}
+div.container-itms {
+    max-width: 395px;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 0 40px;
+}
+
+
+}
+
+@media only screen and (max-width:508px){
+	div.about-content p {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 45px;
+     margin-right: 308px; 
+}
+div.about-content2 p {
+    font-size: 16px;
+    line-height: 48px;
+    margin-right: 08px;
+}
+
+div.container-icon {
+    max-width: 445px;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 0 40px;
+}
+	
+}
+@media only screen and (max-width:450px){
+
+div.icon-box {
+    max-width: 352px;
+    min-height: 270px;
+    padding: 54px 122px;
+}
+div.icon-box h2 {
+    font-size: 25px;
+    
+}
+div.container-icon {
+    max-width: 381px;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 0 0px;
+}
+div.container-rating {
+    max-width: 383px;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 0 0px;
+}
+div.testi-content1 {
+    max-width: 447px;
+    min-height: 336px;
+}
+}
+@media only screen and (max-width:370px){
+	div.logo img {
+   
+    width: 120px;
+    height: 51px;
+}
+.mobile-menu span {
+   
+    font-size: 30px;
+   
+}
+	div.header-title-content h2 {
+    color: #302E29;
+    font-size: 35px;
+    font-weight: bold;
+    line-height: 53px;
+    font-family: Raleway;
+}
+div.header-title-content {
+    margin-top: 133px;
+    margin-right: 0px;
+    text-align: center;
+}
+
+div.food-items1 {
+    width: 278px;
+    height: 99px;
+    padding: 14px 30px;
+    margin-bottom: 53px;
+}
+div.about-content h2 {
+    font-size: 35px;
+    margin-right: 264px;
+    margin-bottom: 40px;
+}
+div.icon-box {
+    max-width: 303px;
+    min-height: 270px;
+    padding: 54px 66px;
+}
+div.container-icon {
+    max-width: 335px;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 0 0px;
+}
+div.icon-box h2 {
+    font-size: 22px;
+}
+div.icon-box p {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 25px;
+    margin-left: -18px;
+    margin-right: -19px;
+}
+
+section.rating-section {
+  
+  
+    margin-top: -121px;
+    
+}
+div.rating-box {
+ margin:140px 40px;
+ 
+}
+div.about-content2 h2 {
+    font-size: 35px;
+    line-height: 82px;
+    margin-right: -36px;
+}
+div.rating-box h2 {
+    color: #302E29;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 48px;
+    font-family: Raleway;
+    align-items: center;
+    padding-top: 10px;
+}
+div.rating-box p {
+   
+    font-size: 15px;
+    
+    line-height: 30px;
+    margin-right: 25px;
+    margin-left: 25px;
+}
+div.rating-box svg {
+    margin-top: -45px;
+}	
+
+div.rating-box span {
+  
+    line-height: 68px;
+   
+}
+div.testi-content1 h2 {
+    padding-right: 52px;
+    font-size: 22px;
+    text-align:center;
+}
+div.testi-content1 p {
+    padding-top: 25px;
+    padding-right: 50px;
+    color: #858585;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 48px;
+    font-family: Raleway;
+    text-align: center;
+}
+div.testi-content1 {
+    max-width: 553px;
+    min-height: 349px;
+    padding: 50px 50px 0px 50px;
+    text-align: center;
+    background-color: white;
+    box-shadow: 7.25px 27.05px 76px rgb(255 145 0 / 10%);
+    border-radius: 30px;
+    margin: 10px 10px 100px 10px;
+}
+
+div.testi-content1 p {
+   
+    padding-right:0px;
+    color: #858585;
+    font-size: 15px;
+   
+    line-height: 31px;
+   
+}
+
+div.testi-content1 h2 {
+    padding-right: 0px;
+    font-size: 22px;
+    text-align: center;
+}
+div.testi-content1 span {
+    padding-right: 0px;
+}
+div.tk-btn {
+    display: flex;
+    margin-top: 31px;
+    margin-left: -18px;
+}
+
+div.tk-btn a {
+    display: flex;
+    margin-left: 14px;
+}
+}
+
+@media only screen and (max-width:350px){
+	div.rating-box {
+    margin: 140px 40px;
+}
+div.rating-box {
+    
+    max-width: 282px;
+    min-height: 478px;
+  
+    padding: 0px 10px 60px 10px;
+
+}
+div.rating-box img {
+   
+    margin-left: -40px;
+}
+	
+}
+
+@media only screen and (max-width:300px){
+	
+div.rating-box {
+    margin: 140px 25px;
+}
+div.icon-box {
+    max-width: 260px;
+    min-height: 270px;
+    padding: 54px 66px;
+    margin: 35px;
+}
+div.btn {
+    margin-left: -25px;
+    margin-top: 76px;
+}
+div.food-items1 {
+    width: 280px;
+    height: 99px;
+    padding: 14px 30px;
+    margin-bottom: 53px;
+}
+div.container-itms {
+    max-width: 391px;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 0 10px;
+}
+div.about-content h2 {
+    font-size: 32px;
+    margin-right: 329px;
+    margin-bottom: 40px;
+}
+div.rating-title h2 {
+    font-size: 33px;
+    padding-bottom: 61px;
+}
+div.testi-title h2 {
+    font-size: 33px;
+    padding-bottom: 62px;
+}
+div.testi-content1 {
+    max-width: 732px;
+    min-height: 308px;
+    padding: 50px 20px 0px 21px;
+    margin: 10px 10px 50px 10px;
+}
+	
+}
