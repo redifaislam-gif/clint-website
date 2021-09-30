@@ -1,0 +1,353 @@
+/**
+ * Theme Dark Style
+ * ========================================================
+ */
+body {
+  background: #000000;
+}
+#topbar,
+#header-aside,
+.menu-side-box,
+.sub-footer,
+.footer {
+  color: #fff;
+}
+#topbar h1,
+#header-aside h1,
+.menu-side-box h1,
+.sub-footer h1,
+.footer h1,
+#topbar h2,
+#header-aside h2,
+.menu-side-box h2,
+.sub-footer h2,
+.footer h2,
+#topbar h3,
+#header-aside h3,
+.menu-side-box h3,
+.sub-footer h3,
+.footer h3,
+#topbar h4,
+#header-aside h4,
+.menu-side-box h4,
+.sub-footer h4,
+.footer h4,
+#topbar h5,
+#header-aside h5,
+.menu-side-box h5,
+.sub-footer h5,
+.footer h5,
+#topbar h6,
+#header-aside h6,
+.menu-side-box h6,
+.sub-footer h6,
+.footer h6,
+#topbar .title,
+#header-aside .title,
+.menu-side-box .title,
+.sub-footer .title,
+.footer .title {
+  color: inherit;
+}
+#topbar legend,
+#header-aside legend,
+.menu-side-box legend,
+.sub-footer legend,
+.footer legend {
+  border-color: rgba(255, 255, 255, 0.14);
+  color: rgba(255, 255, 255, 0.9);
+}
+#topbar legend small,
+#header-aside legend small,
+.menu-side-box legend small,
+.sub-footer legend small,
+.footer legend small {
+  color: rgba(255, 255, 255, 0.9);
+}
+#topbar .input-text,
+#header-aside .input-text,
+.menu-side-box .input-text,
+.sub-footer .input-text,
+.footer .input-text,
+#topbar textarea,
+#header-aside textarea,
+.menu-side-box textarea,
+.sub-footer textarea,
+.footer textarea,
+#topbar select,
+#header-aside select,
+.menu-side-box select,
+.sub-footer select,
+.footer select,
+#topbar input[type="text"],
+#header-aside input[type="text"],
+.menu-side-box input[type="text"],
+.sub-footer input[type="text"],
+.footer input[type="text"],
+#topbar input[type="input"],
+#header-aside input[type="input"],
+.menu-side-box input[type="input"],
+.sub-footer input[type="input"],
+.footer input[type="input"],
+#topbar input[type="password"],
+#header-aside input[type="password"],
+.menu-side-box input[type="password"],
+.sub-footer input[type="password"],
+.footer input[type="password"],
+#topbar input[type="email"],
+#header-aside input[type="email"],
+.menu-side-box input[type="email"],
+.sub-footer input[type="email"],
+.footer input[type="email"],
+#topbar input[type="datetime"],
+#header-aside input[type="datetime"],
+.menu-side-box input[type="datetime"],
+.sub-footer input[type="datetime"],
+.footer input[type="datetime"],
+#topbar input[type="datetime-local"],
+#header-aside input[type="datetime-local"],
+.menu-side-box input[type="datetime-local"],
+.sub-footer input[type="datetime-local"],
+.footer input[type="datetime-local"],
+#topbar input[type="date"],
+#header-aside input[type="date"],
+.menu-side-box input[type="date"],
+.sub-footer input[type="date"],
+.footer input[type="date"],
+#topbar input[type="month"],
+#header-aside input[type="month"],
+.menu-side-box input[type="month"],
+.sub-footer input[type="month"],
+.footer input[type="month"],
+#topbar input[type="time"],
+#header-aside input[type="time"],
+.menu-side-box input[type="time"],
+.sub-footer input[type="time"],
+.footer input[type="time"],
+#topbar input[type="week"],
+#header-aside input[type="week"],
+.menu-side-box input[type="week"],
+.sub-footer input[type="week"],
+.footer input[type="week"],
+#topbar input[type="number"],
+#header-aside input[type="number"],
+.menu-side-box input[type="number"],
+.sub-footer input[type="number"],
+.footer input[type="number"],
+#topbar input[type="url"],
+#header-aside input[type="url"],
+.menu-side-box input[type="url"],
+.sub-footer input[type="url"],
+.footer input[type="url"],
+#topbar input[type="search"],
+#header-aside input[type="search"],
+.menu-side-box input[type="search"],
+.sub-footer input[type="search"],
+.footer input[type="search"],
+#topbar input[type="tel"],
+#header-aside input[type="tel"],
+.menu-side-box input[type="tel"],
+.sub-footer input[type="tel"],
+.footer input[type="tel"],
+#topbar input[type="color"],
+#header-aside input[type="color"],
+.menu-side-box input[type="color"],
+.sub-footer input[type="color"],
+.footer input[type="color"] {
+  border-color: rgba(255, 255, 255, 0.14);
+  color: rgba(255, 255, 255, 0.9);
+  background: rgba(255, 255, 255, 0.06);
+}
+#topbar .input-text:focus,
+#header-aside .input-text:focus,
+.menu-side-box .input-text:focus,
+.sub-footer .input-text:focus,
+.footer .input-text:focus,
+#topbar textarea:focus,
+#header-aside textarea:focus,
+.menu-side-box textarea:focus,
+.sub-footer textarea:focus,
+.footer textarea:focus,
+#topbar input[type="text"]:focus,
+#header-aside input[type="text"]:focus,
+.menu-side-box input[type="text"]:focus,
+.sub-footer input[type="text"]:focus,
+.footer input[type="text"]:focus,
+#topbar input[type="input"]:focus,
+#header-aside input[type="input"]:focus,
+.menu-side-box input[type="input"]:focus,
+.sub-footer input[type="input"]:focus,
+.footer input[type="input"]:focus,
+#topbar input[type="checkbox"]:focus,
+#header-aside input[type="checkbox"]:focus,
+.menu-side-box input[type="checkbox"]:focus,
+.sub-footer input[type="checkbox"]:focus,
+.footer input[type="checkbox"]:focus,
+#topbar input[type="password"]:focus,
+#header-aside input[type="password"]:focus,
+.menu-side-box input[type="password"]:focus,
+.sub-footer input[type="password"]:focus,
+.footer input[type="password"]:focus,
+#topbar input[type="email"]:focus,
+#header-aside input[type="email"]:focus,
+.menu-side-box input[type="email"]:focus,
+.sub-footer input[type="email"]:focus,
+.footer input[type="email"]:focus,
+#topbar input[type="datetime"]:focus,
+#header-aside input[type="datetime"]:focus,
+.menu-side-box input[type="datetime"]:focus,
+.sub-footer input[type="datetime"]:focus,
+.footer input[type="datetime"]:focus,
+#topbar input[type="datetime-local"]:focus,
+#header-aside input[type="datetime-local"]:focus,
+.menu-side-box input[type="datetime-local"]:focus,
+.sub-footer input[type="datetime-local"]:focus,
+.footer input[type="datetime-local"]:focus,
+#topbar input[type="date"]:focus,
+#header-aside input[type="date"]:focus,
+.menu-side-box input[type="date"]:focus,
+.sub-footer input[type="date"]:focus,
+.footer input[type="date"]:focus,
+#topbar input[type="month"]:focus,
+#header-aside input[type="month"]:focus,
+.menu-side-box input[type="month"]:focus,
+.sub-footer input[type="month"]:focus,
+.footer input[type="month"]:focus,
+#topbar input[type="time"]:focus,
+#header-aside input[type="time"]:focus,
+.menu-side-box input[type="time"]:focus,
+.sub-footer input[type="time"]:focus,
+.footer input[type="time"]:focus,
+#topbar input[type="week"]:focus,
+#header-aside input[type="week"]:focus,
+.menu-side-box input[type="week"]:focus,
+.sub-footer input[type="week"]:focus,
+.footer input[type="week"]:focus,
+#topbar input[type="number"]:focus,
+#header-aside input[type="number"]:focus,
+.menu-side-box input[type="number"]:focus,
+.sub-footer input[type="number"]:focus,
+.footer input[type="number"]:focus,
+#topbar input[type="url"]:focus,
+#header-aside input[type="url"]:focus,
+.menu-side-box input[type="url"]:focus,
+.sub-footer input[type="url"]:focus,
+.footer input[type="url"]:focus,
+#topbar input[type="search"]:focus,
+#header-aside input[type="search"]:focus,
+.menu-side-box input[type="search"]:focus,
+.sub-footer input[type="search"]:focus,
+.footer input[type="search"]:focus,
+#topbar input[type="tel"]:focus,
+#header-aside input[type="tel"]:focus,
+.menu-side-box input[type="tel"]:focus,
+.sub-footer input[type="tel"]:focus,
+.footer input[type="tel"]:focus,
+#topbar input[type="color"]:focus,
+#header-aside input[type="color"]:focus,
+.menu-side-box input[type="color"]:focus,
+.sub-footer input[type="color"]:focus,
+.footer input[type="color"]:focus {
+  border-color: rgba(255, 255, 255, 0.33);
+  color: rgba(255, 255, 255, 0.9);
+}
+#topbar select,
+#header-aside select,
+.menu-side-box select,
+.sub-footer select,
+.footer select {
+  background: rgba(255, 255, 255, 0.06) url('include/select.png') no-repeat center right;
+}
+#topbar input[disabled],
+#header-aside input[disabled],
+.menu-side-box input[disabled],
+.sub-footer input[disabled],
+.footer input[disabled],
+#topbar select[disabled],
+#header-aside select[disabled],
+.menu-side-box select[disabled],
+.sub-footer select[disabled],
+.footer select[disabled],
+#topbar textarea[disabled],
+#header-aside textarea[disabled],
+.menu-side-box textarea[disabled],
+.sub-footer textarea[disabled],
+.footer textarea[disabled],
+#topbar input[readonly],
+#header-aside input[readonly],
+.menu-side-box input[readonly],
+.sub-footer input[readonly],
+.footer input[readonly],
+#topbar select[readonly],
+#header-aside select[readonly],
+.menu-side-box select[readonly],
+.sub-footer select[readonly],
+.footer select[readonly],
+#topbar textarea[readonly],
+#header-aside textarea[readonly],
+.menu-side-box textarea[readonly],
+.sub-footer textarea[readonly],
+.footer textarea[readonly] {
+  background-color: rgba(255, 255, 255, 0.33);
+}
+#topbar select option,
+#header-aside select option,
+.menu-side-box select option,
+.sub-footer select option,
+.footer select option {
+  background: #3f3f3f;
+}
+#topbar .lightSliderVertical .lSAction > a,
+#header-aside .lightSliderVertical .lSAction > a,
+.menu-side-box .lightSliderVertical .lSAction > a,
+.sub-footer .lightSliderVertical .lSAction > a,
+.footer .lightSliderVertical .lSAction > a {
+  background: none;
+}
+.sub-footer {
+  background-color: rgba(255, 255, 255, 0.06);
+  border-color: rgba(255, 255, 255, 0.33);
+}
+#site-title,
+#site-description {
+  color: #fff;
+}
+.site-logo-text,
+.site-logo-mixed {
+  text-shadow: 2px 2px 1px rgba(0, 0, 0, 0.9);
+}
+.site-logo-text #site-description,
+.site-logo-mixed #site-description {
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.9);
+}
+#header-supplementary {
+  background: #141414;
+}
+#header-supplementary:before {
+  display: none;
+}
+.menu-items > li > a {
+  color: #fff;
+}
+.menu-items ul li {
+  background: rgba(255, 255, 255, 0.14);
+}
+.menu-items ul a {
+  color: #ddd;
+}
+.menu-side-box {
+  color: #fff;
+}
+@media only screen and (max-width: 969px) {
+  .mobilemenu-inline .menu-items {
+    border-color: rgba(255, 255, 255, 0.14);
+  }
+  .mobilemenu-inline .menu-toggle {
+    border-bottom: solid 1px rgba(255, 255, 255, 0.14);
+  }
+  .mobilemenu-fixed .menu-toggle,
+  .mobilemenu-fixed #menu-primary-items,
+  .mobilemenu-fixed #menu-secondary-items {
+    border-color: rgba(255, 255, 255, 0.33);
+  }
+}

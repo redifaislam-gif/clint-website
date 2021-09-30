@@ -1,0 +1,253 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Unos News\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-07-18 23:11+0530\n"
+"PO-Revision-Date: 2021-07-18 23:11+0530\n"
+"Last-Translator: wpHoot <admin@wphoot.com>\n"
+"Language-Team: wpHoot <admin@wphoot.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;_ex;_nx;esc_attr__;esc_attr_e;esc_attr_x;esc_html__;esc_html_e;esc_html_x;_n_noop;_nx_noop;translate_nooped_plural\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../hootkit/functions.php:115
+msgid "Default: 200 (in pixels)"
+msgstr ""
+
+#: ../hootkit/functions.php:130
+msgid "Default: 40 (recommended for single line style below).<br />Set this to 75 for multiline style below"
+msgstr ""
+
+#: ../hootkit/functions.php:135
+msgid "Default: 75 (recommended for multi line style below).<br />Set this to 40 for single line style below"
+msgstr ""
+
+#: ../include/category.php:78
+msgid "Label Color"
+msgstr ""
+
+#: ../include/category.php:86
+#: ../include/category.php:87
+msgid "Auto"
+msgstr ""
+
+#: ../include/category.php:94
+#: ../include/category.php:107
+msgid "Label Background"
+msgstr ""
+
+#: ../include/category.php:97
+#: ../include/category.php:115
+msgid "Label Font"
+msgstr ""
+
+#: ../include/category.php:111
+#: ../include/category.php:119
+msgid "Leave empty for automatic color selection"
+msgstr ""
+
+#: ../include/customizer-options.php:60
+msgid "Display Image"
+msgstr ""
+
+#: ../include/customizer-options.php:65
+msgid "As Background"
+msgstr ""
+
+#: ../include/customizer-options.php:66
+msgid "Full Image"
+msgstr ""
+
+#: ../include/customizer-options.php:73
+msgid "Display Home Icon in Menu"
+msgstr ""
+
+#: ../include/customizer-options.php:82
+msgid "Header/Footer Color Scheme"
+msgstr ""
+
+#: ../include/customizer-options.php:87
+msgid "Light Background"
+msgstr ""
+
+#: ../include/customizer-options.php:88
+msgid "Dark Background"
+msgstr ""
+
+#: ../include/customizer-options.php:95
+msgid "Sub Headings Font (Free Version)"
+msgstr ""
+
+#: ../include/customizer-options.php:104
+msgid "Sub Heading Font Style"
+msgstr ""
+
+#: ../include/customizer-options.php:109
+msgid "Standard"
+msgstr ""
+
+#: ../include/customizer-options.php:110
+msgid "Standard Italics"
+msgstr ""
+
+#: ../include/customizer-options.php:111
+msgid "Uppercase"
+msgstr ""
+
+#: ../include/customizer-options.php:112
+msgid "Uppercase Italics"
+msgstr ""
+
+#: ../include/customizer-options.php:119
+msgid "Body Font (Free Version)"
+msgstr ""
+
+#: ../include/customizer-options.php:148
+msgid "default: 35"
+msgstr ""
+
+#: ../include/customizer-options.php:159
+msgid "<b>Hoot</b>"
+msgstr ""
+
+#: ../include/customizer-options.php:160
+msgid "<em>Unos</em><mark>News</mark>"
+msgstr ""
+
+#: ../include/customizer-options.php:165
+#, php-format
+msgid "Use &lt;b&gt; &lt;em&gt; and &lt;mark&gt; tags in \"Line Text\" fields below to emphasize different words. Example:%1$s%2$s&lt;b&gt;Hoot&lt;/b&gt; &lt;em&gt;Unos&lt;/em&gt; &lt;mark&gt;News&lt;/mark&gt;%3$s"
+msgstr ""
+
+#: ../include/customizer-options.php:171
+msgid "Accent Background"
+msgstr ""
+
+#: ../include/customizer-options.php:193
+msgid "Header Image"
+msgstr ""
+
+#: ../include/customizer-options.php:208
+msgid "Standard Font 1 (Lato)"
+msgstr ""
+
+#: ../include/customizer-options.php:209
+msgid "Standard Font 2 (Open Sans)"
+msgstr ""
+
+#: ../include/customizer-options.php:210
+msgid "Alternate Font (Comfortaa)"
+msgstr ""
+
+#: ../include/customizer-options.php:211
+msgid "Display Font 1 (Oswald)"
+msgstr ""
+
+#: ../include/customizer-options.php:212
+msgid "Display Font 2 (Impact)"
+msgstr ""
+
+#: ../include/customizer-options.php:213
+msgid "Heading Font 1 (Noto Serif)"
+msgstr ""
+
+#: ../include/customizer-options.php:214
+msgid "Heading Font 2 (Slabo)"
+msgstr ""
+
+#: ../include/customizer-options.php:215
+msgid "Heading Font 3 (Georgia)"
+msgstr ""
+
+#: ../include/customizer-options.php:374
+msgid "Invalid request."
+msgstr ""
+
+#: ../include/menu.php:16
+msgid "Tag &amp; Hover Background (leave empty for automatic color)"
+msgstr ""
+
+#: ../include/menu.php:17
+msgid "Tag &amp; Hover Font (leave empty for automatic color)"
+msgstr ""
+
+#: ../include/metainfo-display.php:15
+msgid "Meta Information on Posts (After Title)"
+msgstr ""
+
+#: ../include/metainfo-display.php:19
+msgid "Meta Information on Posts (After Content)"
+msgstr ""
+
+#: ../include/metainfo-display.php:20
+msgid "Check which meta information to display on an individual 'Post' page"
+msgstr ""
+
+#: ../include/metainfo-display.php:24
+msgid "Author"
+msgstr ""
+
+#: ../include/metainfo-display.php:25
+msgid "Date"
+msgstr ""
+
+#: ../include/metainfo-display.php:26
+msgid "Categories"
+msgstr ""
+
+#: ../include/metainfo-display.php:27
+msgid "Tags"
+msgstr ""
+
+#: ../include/metainfo-display.php:28
+msgid "No. of comments"
+msgstr ""
+
+#: ../include/theme-setup.php:61
+msgid "Unos News"
+msgstr ""
+
+#: ../include/theme-setup.php:79
+msgid "Unos News Premium"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:25
+msgid "Cart totals"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:30
+#: ../woocommerce/cart/cart-totals.php:31
+msgid "Subtotal"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:52
+#: ../woocommerce/cart/cart-totals.php:53
+msgid "Shipping"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:72
+#, php-format
+msgid "(estimated for %s)"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:98
+#: ../woocommerce/cart/cart-totals.php:99
+msgid "Total"
+msgstr ""
+
+#: ../woocommerce/cart/cross-sells.php:24
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: ../woocommerce/single-product/related.php:27
+msgid "Related products"
+msgstr ""
+
+#: ../woocommerce/single-product/up-sells.php:26
+msgid "You may also like&hellip;"
+msgstr ""
+
